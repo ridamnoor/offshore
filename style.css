@@ -1,0 +1,33 @@
+
+
+body {
+  background-color: #9b539c;
+  font-family: 'Indie Flower', cursive;
+}
+
+header {
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1 {
+  font-size: 48px;
+  font-family: 'Dancing Script', cursive;
+  text-shadow: 2px 2px #8e8989;
+}
+
+h2 {
+  font-size: 36px;
+  font-style: italic;
+  margin-top: 20px;
+}
+
+section {
+  margin: 50px;
+  text-align: center;
+}
+
+p {
+  font-size: 24px;
+  margin: 20px 0;
+}
